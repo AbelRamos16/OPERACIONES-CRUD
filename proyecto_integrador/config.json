@@ -1,0 +1,7 @@
+{
+    "name_server": "Sthefano\\SQLEXPRESS",
+    "database": "SoundStreamDB",
+    "username": "pygrupo1",
+    "password": "PyGrupo1#2026$",
+    "controlador_odbc": "SQL Server"
+}
